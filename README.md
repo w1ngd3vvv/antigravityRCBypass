@@ -3,10 +3,7 @@
 > Автоматическая настройка DNS для обхода региональных ограничений аккаунта в Antigravity (2.0, IDE, CLI).
 
 ---
-<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/a153fbd6-77b5-4eaa-867a-f7298086616d" />
-
-
-
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/40bb6cdf-87c2-487b-ab58-874f5efdabed" />
 ## Быстрая установка
 
 Запустите команду в терминале в зависимости от вашей системы:
