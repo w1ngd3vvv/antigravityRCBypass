@@ -4,6 +4,9 @@
 
 ---
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d4964cb9-fece-4d4e-af27-2ef380985ff9" />
+
+
 ## Быстрая установка
 
 Запустите команду в терминале в зависимости от вашей системы:
